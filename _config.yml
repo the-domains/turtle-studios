@@ -1,7 +1,7 @@
 name: Turtle Studios
 favicon: null
-layout_spectrum: 0.4928923377301544
-typography_spectrum: 0.22832559770904481
+layout_spectrum: 0.48229
+typography_spectrum: 0.24106
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.20286860642954707
-  lightness: 0.6782533002551645
-  saturation: 0.9282846013084054
-  rhythmicContrast: 0.618521224707365
+    - '#ffffff'
+    - '#141414'
+    - '#49873a'
+    - '#4b4b4b'
+    - '#9a9a9a'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
